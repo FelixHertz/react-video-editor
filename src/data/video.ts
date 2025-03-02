@@ -1,7 +1,7 @@
 export const VIDEOS = [
   {
     // id: 1,https://cdn.designcombo.dev/videos/demo-video-1.mp4
-    src: "https://cdn.designcombo.dev/videos/demo-video-1.mp4",
+    src: "https://www.dropbox.com/scl/fi/g4kv38s2b5yz8ckyjz1p7/test.MP4?rlkey=iciuahab6lki8gs8l7qd4v7x9&st=6nimb9y1&dl=1",
     preview: "https://cdn.designcombo.dev/thumbnails/demo-video-s-1.png"
   },
   {
